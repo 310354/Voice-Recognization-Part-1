@@ -1,0 +1,43 @@
+body
+{
+    font-family: 'Oswald', sans-serif,cursive;
+    background-color: lightpink;
+}
+
+.header_div
+{
+    background:white;
+    color: crimson;
+}
+
+.header_div p
+{
+    font-family: 'Times New Roman', Times, serif;
+    color:coral;
+    letter-spacing:2px;
+    font: size 16px;
+    font-weight:bold;
+}
+
+.main_div button
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top:30px;
+    width:200px;
+    font-weight:bolder;
+    letter-spacing:3px;
+    border-radius:30%;
+}
+
+.copy_right_footer
+{
+    position:fixed;
+    color: rgb(10, 69, 231);
+    bottom:0;
+    width: 100%;
+    font-size: 18px;
+    background-color:gold;
+    line-height: 3;
+    text-align: center;
+    text-shadow:5px 5px 5px rgb(151,149,149);
+}
